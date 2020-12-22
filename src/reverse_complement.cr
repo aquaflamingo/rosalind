@@ -1,5 +1,4 @@
 require "./nucleotide.cr"
-
 puts "Input DNA Sequence:\n"
 
 class DnaComplement
